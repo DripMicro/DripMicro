@@ -3,7 +3,7 @@
 </h2> 
 
 
-
+<!-- 
 <table align ="center">
 <tr>
 <td>
@@ -28,7 +28,7 @@
 |<img align="center" alt="Laravel" height="35" width="35" src="https://img.icons8.com/color/2x/php.png"/> <img align="center" alt="Laravel" height="35" width="35" src="https://img.icons8.com/fluency/2x/laravel.png"/>  <img align="center" alt="Laravel" height="30" width="30" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/2x/external-codeigniter-is-an-open-source-software-rapid-development-web-framework-logo-color-tal-revivo.png"/>|   
   </td>
  </tr>
-</table>
+</table> -->
 <hr>
 
 ### **_Contact Details_**
