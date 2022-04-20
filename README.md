@@ -29,7 +29,7 @@
   </td>
  </tr>
 </table> -->
-<hr>
+<!-- <hr> -->
 
 ### **_Contact Details_**
 <p align='center'>
