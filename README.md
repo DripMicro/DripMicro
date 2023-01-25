@@ -31,7 +31,7 @@
 </table> -->
 <!-- <hr> -->
 
-<!-- ### **_Contact Details_**
+### **_Contact Details_**
 <p align='center'>
   <a href="https://t.me/DripMicro">
     <img src="https://img.shields.io/badge/telegram-%230077B5.svg?&style=for-the-badge&logo=telegram&logoColor=white" />
@@ -45,15 +45,13 @@
 </p>
 <div align="center">
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I like to communicate with various people</b> so if you want to say <b>hi, I'm happy to meet more people!</b> :)</em>
-</div> -->
+</div>
 
-<h2>Status</h2>
+<!-- <h2>Status</h2>
 
 <div align="center">
   <a href="https://github.com/DripMicro">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DripMicro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DripMicro&layout=compact&langs_count=10&theme=dark"/>
-<!--   <img height="295em"  src="https://activity-graph.herokuapp.com/graph?username=dreamlancer&theme=xcode"/> -->
-   <img alt="dreamlancer's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=DripMicro&bg_color=1c292E&color=a7e729&line=e729c7&point=FFFFFF&hide_border=true" /> 
   </a>
-</div>
+</div> -->
