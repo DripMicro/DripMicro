@@ -8,6 +8,7 @@
   <a href="https://github.com/DripMicro">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DripMicro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DripMicro&layout=compact&langs_count=10&theme=dark"/>
+   <img id="preview" src="https://komarev.com/ghpvc/?username=Backendeng&color=grey">
   <img alt="Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=DripMicro&theme=react-dark&hide_border=true" /> 
   </a>
 </div>
